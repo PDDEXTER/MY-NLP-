@@ -13,5 +13,4 @@ DESCRIPTIONS OF THE FILES:
 
 5. [NLP COSINE SIMILARITY.ipynb]- Porter Stemmer with cosine similarities for collections of text .
 
-6. [NLP NER.ipynb]- With CRF doing Sequence Labeling on a NER -Named Entity Recognition model  in Python 
 
